@@ -9,7 +9,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-{"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lyghgx/tvboxs/box/main/sub/MeowXP/omofun日漫.json"},
+{"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lyghgx/tvboxs/box/main/XP/omofun日漫.json"},
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
   ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
