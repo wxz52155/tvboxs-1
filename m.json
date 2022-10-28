@@ -44,6 +44,7 @@
 {"key":"csp_xpath_libv","name":"🌐Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/Libvio.json"},
 {"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 //
+{"key":"csp_xbb_鸭奈飞","name":"🍀鸭奈飞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XB/鸭奈飞.json"},
 {"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XB/饭团HD.json"},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XB/voflix.json"},
 {"key":"csp_xbb_Nike影视","name":"🍀Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XB/Nike影视网.json"},
