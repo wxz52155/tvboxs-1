@@ -37,6 +37,7 @@
 {"key":"csp_xp_jbb","name":"💢剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/剧白白.json"},
 {"key":"csp_xp_xqmi","name":"💢小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/小强迷.json"},
 {"key":"csp_xp_6d","name":"💢六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/六度TV.json"},
+{"key":"csp_xpath_libv","name": "Libvio(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/1/json/Libvio.json"},
 //
 {"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XB/饭团HD.json"},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XB/voflix.json"},
