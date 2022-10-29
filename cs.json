@@ -24,6 +24,7 @@
 {"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0},
 {"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 //
+{"key":"csp_xp_Nmys","name":"💢农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/农民影视.json"},
 {"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/348电影.json"},
 {"key":"csp_xp_cokemv","name":"💢Cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/Cokemv.json"},
 {"key":"csp_xp_Gimy","name": "💢Gimy影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/Gimy影院.json"},
@@ -88,7 +89,7 @@
 ],
 //
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/lyghgx/tvboxs/main/jar/221026.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+"spider":"https://raw.iqiq.io/lyghgx/tvboxs/main/jar/221028.jar;md5;fa7659c29836e52105cf2e9ff3c2a3cc",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
