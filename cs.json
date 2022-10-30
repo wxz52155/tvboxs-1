@@ -89,7 +89,7 @@
 ],
 //
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/lyghgx/tvboxs/main/jar/1030.jar;md5;a47341ccad07507e48f62af290c96dd3",
+"spider":"https://raw.iqiq.io/lyghgx/tvboxs/main/jar/1030.jar;md5;e450895d66b140111a36997c7f52f956",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
