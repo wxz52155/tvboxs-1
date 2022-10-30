@@ -12,6 +12,7 @@
 {"key":"Lib","name":"🌏Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🌏Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"🌏泥巴影院(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DiDuan" ,"name":"🌏低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_555","name":"🌏555影视","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //
 {"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/ext/qq_qiyi_mgtv.jpg"},
