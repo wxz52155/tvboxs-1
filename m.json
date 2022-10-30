@@ -1,4 +1,9 @@
 {
+// 每日一言 (随机显示欢迎语)
+"dairyWords": [{"name":"rating","request":{"method": "GET","url":{"raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"}},
+"response": {"result": "$.data.content"},
+"expires" : "43200"}],
+//
 "sites": [
 {"key":"csp_CZSPP","name":"🌏厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌏酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
