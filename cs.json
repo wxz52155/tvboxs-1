@@ -35,7 +35,6 @@
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/美剧网.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/动漫巴士.json"},
 {"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/蓝光影院.json"},
-{"key":"csp_xp_vip1280","name":"💢VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/VIP电影.json"},
 {"key":"csp_xp_lezhutv","name":"💢乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/乐猪TV.json"},
 {"key":"csp_xp_jbb","name":"💢剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/剧白白.json"},
 {"key":"csp_xp_xqmi","name":"💢小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/lyghgx/tvboxs/main/json/XP/小强迷.json"},
@@ -89,7 +88,7 @@
 ],
 //
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/lyghgx/tvboxs/main/jar/hh.jar;md5;f812893ec539bd67506c7ac697a2c4a4",
+"spider":"https://raw.iqiq.io/lyghgx/tvboxs/main/jar/hh.jar;md5;0558bba393fdc596e9c24d3426126d6e",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
